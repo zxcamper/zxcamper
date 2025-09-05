@@ -1,0 +1,91 @@
+body {
+    /* background-color: rgb(75, 75, 75); */
+    background-image: url(content/1660419946_1-kartinkin-net-p-anime-oboi-na-ekran-blokirovki-krasivo-1.jpg);
+    background-size: cover;
+    /* margin: 0px; */
+}
+.block {
+    background: linear-gradient(135deg, #40007f, #707070);
+    height: 100px;
+    border-radius: 30px;
+    width: 1100px;
+}
+.mainbutton {
+    font-size: 40px;
+    padding: 20px;
+    background: transparent;
+    border: 0px;
+    padding-left: 30px;
+    font-family: cursive;
+    padding-top: 15px;
+}
+.button {
+    font-size: 25px;
+    background: transparent;
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.steam {
+    font-size: 20px;
+    width: 30px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 30px;
+}
+.block2 {
+    background: linear-gradient(135deg, #40007f, #707070);
+    width: 300px;
+    height: 700px;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+.asidebutton {
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: linear-gradient(135deg, #ffffff, #000000);
+}
+.asidebutton2 {
+    width: 120px;
+    height: 120px;
+    border-radius: 40px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    background: linear-gradient(135deg, #ffffff, #0800ff);
+}
+.asidebutton:hover {
+    background: linear-gradient(135deg, #e3e3e3, #ab0000);
+}
+.asidebutton2:hover {
+    background: linear-gradient(135deg, #e3e3e3, #0600ac);
+}
+.button2 {
+    font-size: 25px;
+    background: linear-gradient(135deg, #ffffff, #167cb7);
+    border: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 180px;
+    border-radius: 20px;
+}
+.video1 {
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.image {
+    width: 500px;
+    margin: 10px;
+    float: right;
+    margin-right: 60px;
+    margin-bottom: 40px;
+}
+.image:hover {
+    transform: scale(1.1);
+}
+.image:active {
+    transform: scale(2);
+}
